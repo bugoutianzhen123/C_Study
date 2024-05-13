@@ -10,10 +10,10 @@ int main(){
   if(n%7 == 0){i++,a[i-1]=7;}
 
   switch (i){
-    case 0 :printf("²»ÄÜ±»3£¬5£¬7ÈÎÒ»¸öÕû³ı \n");break;
-    case 1 :printf("ÄÜ±»ÆäÖĞÒ»¸öÊı%dÕû³ı \n",a[0]); break; 
-    case 2 :printf("ÄÜ±»ÆäÖĞÁ½¸öÊı%d,%dÕû³ı \n",a[0],a[1]); break;
-    case 3 :printf("ÄÜÍ¬Ê±±»3£¬7£¬5Õû³ı\n"); break;
+    case 0 :printf("ä¸èƒ½è¢«3,5,7ä»»æ„ä¸€ä¸ªæ•´é™¤ \n");break;
+    case 1 :printf("ä¸èƒ½è¢«%dæ•´é™¤ \n",a[0]); break; 
+    case 2 :printf("ä¸èƒ½è¢«%d,%dæ•´é™¤ \n",a[0],a[1]); break;
+    case 3 :printf("ä¸èƒ½è¢«5,3,7æ•´é™¤\n"); break;
   }
 
     return 0;

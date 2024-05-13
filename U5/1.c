@@ -4,17 +4,17 @@ int main(){
 int n;
 scanf("%d",&n);
 if (n > 0){
-    printf("%dÊÇÕıÊı\n",n);
+    printf("%dæ˜¯æ­£æ•°\n",n);
 }else if(n < 0){
-    printf("%dÊÇ¸ºÊı\n",n);
+    printf("%dæ˜¯è´Ÿæ•°\n",n);
 }else{
-    printf("%d¼È²»ÊÇÕıÊıÒ²²»ÊÇ¸ºÊı\n");
+    printf("%dä¸º0\n");
 }
 
 if (n % 2){
-    printf("%dÊÇÆæÊı\n",n);
+    printf("%dæ˜¯å¥‡æ•°\n",n);
 }else{
-    printf("%dÊÇÅ¼Êı\n",n);
+    printf("%dæ˜¯å¶æ•°\n",n);
 }
     return 0;
 }

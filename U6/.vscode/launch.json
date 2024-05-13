@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/L/Desktop/C learning/C_Study",
-      "program": "c:/Users/L/Desktop/C learning/C_Study/build/Debug/outDebug",
+      "cwd": "c:/Users/L/Desktop/C learning/C_Study/U6",
+      "program": "c:/Users/L/Desktop/C learning/C_Study/U6/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
